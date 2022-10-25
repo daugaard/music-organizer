@@ -3,6 +3,7 @@
 Tools to organize a music collection based on ID3 tags.
 
 Supported filetypes: `mp3`, `m4a`, `wma`
+
 _All other files are ignored and not moved_
 
 ## Usage
